@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/ce/bf/f6/cebff6d664e1591000cee6b64b2a4b14.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+}
+li{
+    color: rgb(178, 6, 6);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: brown;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
