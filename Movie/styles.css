@@ -1,0 +1,19 @@
+h1{
+    color: #8d550c;
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300px;
+    margin-left: 560px;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/df/7f/4c/df7f4c51df5edae3e9bf78fef81f4000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+    color: #8d550c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 65px;
+   font-weight: 390px;
+}
